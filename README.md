@@ -10,3 +10,5 @@ Run configure.m to setup the MATLAB path variable. I have provided two barebone 
 # Video demonstrations
 * ![Robot pouring into cup](https://www.youtube.com/watch?v=A_yYqYrTFw0)
 * ![Pouring in a cluttered environment](https://www.youtube.com/watch?v=cONz0f_tVU8)
+
+![](screenshot.png)
